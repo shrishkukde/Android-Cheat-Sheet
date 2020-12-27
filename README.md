@@ -4,4 +4,8 @@ This repository contains helpful links to the documents which will speed up you 
 
 I keep updating this repository with helpful links.
 
+#### Mapping of Support Library to AndroidX
 https://developer.android.com/jetpack/androidx/migrate/artifact-mappings
+
+#### Espresso Cheat Sheet
+https://developer.android.com/training/testing/espresso/cheat-sheet
