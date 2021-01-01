@@ -20,7 +20,6 @@ https://developer.android.com/jetpack/androidx/releases/activity
 #### Mapping of Support Library to AndroidX
 https://developer.android.com/jetpack/androidx/migrate/artifact-mappings
 
-
 #### Vocabulary for Android Basics in Kotlin
 https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab
 
@@ -32,3 +31,6 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 #### Markdown Cheat Sheet
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+#### Create Polished User Experience
+https://developer.android.com/codelabs/basic-android-kotlin-training-polished-user-experience#0
