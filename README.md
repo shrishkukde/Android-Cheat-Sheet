@@ -34,3 +34,6 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 #### Create Polished User Experience
 https://developer.android.com/codelabs/basic-android-kotlin-training-polished-user-experience#0
+
+#### Android KTX
+https://developer.android.com/kotlin/ktx
