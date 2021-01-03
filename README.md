@@ -5,7 +5,8 @@
 This repository is created with an aim to make great application in Android.  
 This repository contains helpful links to the documents which will speed up you development and testing process.
 
-I keep updating this repository with helpful links.
+I keep updating this repository with helpful links.  
+These are __must visit pages__ for anyone who works on Android.
 
 #### Espresso Cheat Sheet
 https://developer.android.com/training/testing/espresso/cheat-sheet
@@ -37,3 +38,6 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-polished-us
 
 #### Android KTX
 https://developer.android.com/kotlin/ktx
+
+#### Developer Guides
+https://developer.android.com/guide
