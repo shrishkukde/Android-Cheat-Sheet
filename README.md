@@ -41,3 +41,6 @@ https://developer.android.com/kotlin/ktx
 
 #### Developer Guides
 https://developer.android.com/guide
+
+#### Optimize Build Speed
+https://developer.android.com/studio/build/optimize-your-build#optimize
