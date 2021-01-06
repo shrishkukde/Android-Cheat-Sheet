@@ -2,7 +2,7 @@
 
 ![Image](https://img.shields.io/badge/version-1.0-blue)
 
-This repository is created with an aim to make great application in Android.  
+This repository is created with an aim to help people in making great Android Applications.
 This repository contains helpful links to the documents which will speed up you development and testing process.
 
 I keep updating this repository with helpful links.  
