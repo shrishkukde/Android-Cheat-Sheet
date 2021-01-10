@@ -39,7 +39,7 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-polished-us
 #### Android KTX
 https://developer.android.com/kotlin/ktx
 
-#### Developer Guides.  
+#### Developer Guides  
 Extremely helpful. One stop for all the great Android resources and knowledge.  
 https://developer.android.com/guide
 
