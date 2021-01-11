@@ -51,3 +51,6 @@ https://android-developers.googleblog.com/2011/06/things-that-cannot-change.html
 
 #### Android Resource References  
 https://developer.android.com/reference
+
+#### Raywenderlich - An amazing site with Best in Class Android Tutorials
+https://www.raywenderlich.com/
